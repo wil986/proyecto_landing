@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../proyecto_landing"
+		},
+		{
+			"name": "proyecto_landing",
+			"path": "../proyecto_landing"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Uclass-html-css"
+	}
+}
